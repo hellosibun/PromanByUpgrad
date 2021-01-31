@@ -1,0 +1,4 @@
+com\upgrad\proman\api\controller\SignupController.class
+com\upgrad\proman\api\model\SignupUserResponse.class
+com\upgrad\proman\api\model\UserStatusType.class
+com\upgrad\proman\api\model\SignupUserRequest.class
