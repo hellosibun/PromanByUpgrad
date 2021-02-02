@@ -13,11 +13,6 @@
         <module name="proman-service" />
         <module name="proman-db" />
       </profile>
-      <profile name="newProfile" enabled="true">
-        <processorPath>
-          <entry name="$PROJECT_DIR$" />
-        </processorPath>
-      </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
